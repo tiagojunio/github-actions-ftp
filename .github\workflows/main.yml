@@ -17,4 +17,4 @@ jobs:
           server: ${{ secrets.ftp_host}}
           username: ${{ secrets.ftp.user}}
           password: ${{ secrets.ftp_password }}
-          server-dir: public_html/Tiago/
+          server-dir: /public_html/Tiago/
